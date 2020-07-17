@@ -27864,5 +27864,17 @@
       "ru": "VCreditos",
       "uk": "VCreditos"
     }
+  },
+  {
+    "code": "bilderlings",
+    "status": "active",
+    "links": {
+      "website": "https:\/\/bilderlings.com"
+    },
+    "name": {
+      "en": "Bilderlings",
+      "ru": "Bilderlings",
+      "uk": "Bilderlings"
+    }
   }
 ]
